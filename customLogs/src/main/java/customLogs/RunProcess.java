@@ -11,7 +11,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class RunProcess {
-	static Logger logger = LoggerFactory.getLogger("RunProcess");
+	private static Logger logger = LoggerFactory.getLogger("RunProcess");
 	static File fileName;
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException, SQLException {

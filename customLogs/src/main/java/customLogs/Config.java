@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 public class Config {
 	
-	static Logger logger = LoggerFactory.getLogger("Config");
+	private static Logger logger = LoggerFactory.getLogger("Config");
 	
 	private static Config config;
 	private static Properties properties;

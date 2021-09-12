@@ -16,7 +16,7 @@ import pojo.EventDetails;
 
 public class ParseLogs {
 
-	static Logger logger = LoggerFactory.getLogger("ParseLogs");
+	private static Logger logger = LoggerFactory.getLogger("ParseLogs");
 
 	private String line;
 	private File fileName;

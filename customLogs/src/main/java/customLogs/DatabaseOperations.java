@@ -17,7 +17,7 @@ import org.slf4j.LoggerFactory;
 import pojo.EventDetails;
 
 public class DatabaseOperations {
-	static Logger logger = LoggerFactory.getLogger("DatabaseOperations");
+	private static Logger logger = LoggerFactory.getLogger("DatabaseOperations");
 
 	private Connection con = null;
 	private Statement stmt = null;

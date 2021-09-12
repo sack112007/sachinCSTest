@@ -12,7 +12,7 @@ import pojo.EventDetails;
 
 public class Events {
 	
-	static Logger logger = LoggerFactory.getLogger("Events");
+	private static Logger logger = LoggerFactory.getLogger("Events");
 	private List<EventDetails> eventsList=new ArrayList<EventDetails>();
 	
 	public void addEvent(EventDetails event) {
