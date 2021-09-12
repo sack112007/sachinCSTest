@@ -1,0 +1,9 @@
+{"id":"a","state":"STARTED","type": "AppLog","host":"12345","timestamp":123456}
+{"id":"b","state":"STARTED","type": "AppLog","host":"12345","timestamp":123456}
+{"id":"c","state":"STARTED","type": "AppLog","timestamp":123456}
+{"id":"d","state":"STARTED","type": "AppLog","host":"12345","timestamp":123456}
+{"id":"a","state":"FINISHED","host":"12345","timestamp":123461}
+{"id":"b","state":"FINISHED","type": "AppLog","host":"12345","timestamp":123461}
+{"id":"c","state":"FINISHED","type": "AppLog","host":"12345","timestamp":123461}
+{"id":"d","state":"FINISHED","type": "AppLog","host":"12345","timestamp":123460}
+{"id":"e","state":"FINISHED","type": "AppLog","host":"12345","timestamp":123460}
